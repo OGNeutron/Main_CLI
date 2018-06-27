@@ -13,9 +13,11 @@
     "chalk": "^2.4.1",
     "commander": "^2.15.1",
     "inquirer": "^6.0.0",
+    "logform": "^1.9.1",
     "winston": "^3.0.0"
   },
   "devDependencies": {
+    "@types/node": "^10.3.6",
     "dotenv": "^6.0.0",
     "nodemon": "^1.17.5",
     "rimraf": "^2.6.2",
